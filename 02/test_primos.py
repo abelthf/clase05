@@ -29,4 +29,4 @@ def test_suma_primos_lista_vacia():
     assert suma_de_primos([]) == 0
 
 def test_suma_de_lista_numeros_mixtos_primos():
-    assert suma_de_primos([1,2,15,11]) == 13
+    assert suma_de_primos([1,2,15,11]) == 26
